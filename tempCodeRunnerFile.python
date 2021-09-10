@@ -1,4 +1,0 @@
-lenght = 50
-height = 10
-area = (lenght + height)
-print(area)
