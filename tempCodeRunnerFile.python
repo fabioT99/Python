@@ -1,9 +1,0 @@
-def function1(x , y):
-    return x*y
-def function2(z):
-    print(z)
-    return 2*z
-a = function1(8, 2)
-b = function2(4)
-print(a)
-print(b)
