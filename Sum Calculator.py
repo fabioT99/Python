@@ -1,5 +1,0 @@
-a = input("Insert a value: ")
-b = input("Insert another value: ")
-a = int(a)
-b = int(b)
-print(a + b)
