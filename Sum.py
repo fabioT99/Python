@@ -1,4 +1,5 @@
-a = (input("insert number a : "))
-b = (input("insert number b : "))
-c = a + b 
-print ("The result is %.f " %c)
+a = input("Insert a value: ")
+b = input("Insert another value: ")
+a = int(a)
+b = int(b)
+print(a + b)
